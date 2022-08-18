@@ -5,5 +5,5 @@
 -->
 
 <div id="header" align="center">
-    <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473vs6d4t7r7qb83stwkmz208v652vguxrn9prgiti&rid=giphy.gif&ct=g" width="50%">
+    <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding woman" width="50%">
 </div>
