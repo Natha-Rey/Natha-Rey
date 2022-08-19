@@ -8,3 +8,11 @@
     <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding woman" width="50%">
     <img src="./assets/images/header.png" alt="Hi! Hola! Ciao!"/>
 </div>
+
+## About Me :
+
+- 👩‍💻 I'm a Software Developer focused on Back-End
+
+- 👩‍🎓 I recently achieved a PGC in Back-End and Blockchain Development from YorkU
+
+- 🌎 I'm from El Salvador, but I'm currently living in Canada
