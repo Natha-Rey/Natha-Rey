@@ -57,7 +57,7 @@
 <a href="https://www.hackerrank.com/andrea_reyes94">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank badge"/>
 </a>&nbsp;
-<a href="www.linkedin.com/in/nath-reyes">
+<a href="https://www.linkedin.com/in/nath-reyes/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
 </a>&nbsp;
 <a href="https://www.duolingo.com/profile/Nathy_Rey">
