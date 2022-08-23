@@ -5,11 +5,15 @@
 
 ### About Me 😁:
 
-- 👩‍💻 I'm a Software Developer focused on Back-End
+- 👩‍💻 I'm a Software Developer focused on Back-End development
 
 - 👩‍🎓 I recently achieved a PGC in Back-End and Blockchain Development from YorkU
 
-- <img width="18" src="./assets/images/SLV_flag.png" alt="El Salvador's flag"/> I'm from El Salvador, but I'm currently living in Canada <img width="15" src="./assets/images/CAD_flag.png" alt="Canada's flag"/>
+- 📖 I'm currently learning more about Web3 and some Italian 🌼
+
+- <img width="18" src="./assets/images/SLV_flag.png" alt="El Salvador's flag"/> I'm from El Salvador, but I'm living in Canada <img width="15" src="./assets/images/CAD_flag.png" alt="Canada's flag"/>
+
+- 🤝 I'm looking to collaborate and learn from others 😊
 
 ---
 
@@ -43,5 +47,13 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)&nbsp;
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### Find me on 🔎:
+
+<div align="center">
 
 </div>
