@@ -65,3 +65,7 @@
 </a>
 
 ---
+
+<div align="center">
+    Credits to <a href="https://github.com/Envoy-VC">Vedant Chainani</a> for the <a href="https://github.com/Envoy-VC/awesome-badges">awesome-badges</a>
+</div>
